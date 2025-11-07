@@ -4,9 +4,9 @@ title: "Methodology 4 - Hana Tjendrawasi"
 ---
 
 # DSC180A - Methodology 4
-**Name:** Hana Tjendrawasi  
-**Email:** htjendrawasi@ucsd.edu  
-**Section:** B15 - Differentially private synthetic telemetry data with modern generative AI  
+**Name:** Hana Tjendrawasi<br>
+**Email:** htjendrawasi@ucsd.edu<br>  
+**Section:** B15 - Differentially private synthetic telemetry data with modern generative AI<br>  
 **Mentor:** Professor Yu-Xiang Wang
 
 ---
